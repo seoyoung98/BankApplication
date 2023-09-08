@@ -1,1 +1,1 @@
-# BankApplication
+# ShinHanAcademy
